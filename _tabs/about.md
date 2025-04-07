@@ -4,5 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+## Who am I?
+A master student major in EE in SEU, passionated about software development.
+
+## What do I like?
+- ⌨️ Coding
+- 🎱 POOL EIGHT BALL
+- ✈️ Aviation enthusiast
+- 🎮 Teamfight Tactics(TFT) & League of Legends(LOL)
+
+> Please feel free to contact me at gush@seu.edu.cn
 {: .prompt-tip }
